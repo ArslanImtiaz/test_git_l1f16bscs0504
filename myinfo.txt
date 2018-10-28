@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 Name: ArslanImtiaz
 =======
 Name: Arslan
->>>>>>> 9b742073813ce79a2c79af6c290c3efe0ac61357
 Email:m.arslanimtiaz@ucp.edu.pk
 faculty bscs in ucp
 address lahore
